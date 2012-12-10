@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Mon Nov 01 01:28:26 +0000 2010</created_at>
+  <id>29330169915</id>
+  <text>just want a blanket and a bed to sleep.so sleepy!</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>51498283</id>
+    <name>Thao Nguyen</name>
+    <screen_name>Rosemary87</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/285690925/snnh-001_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>21</friends_count>
+    <created_at>Sat Jun 27 17:30:16 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/53110031/b4a2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>10</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Thu Jun 03 18:25:51 +0000 2010</created_at>
+  <id>15343403332</id>
+  <text>funny day with a new teacher</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>51498283</id>
+    <name>Thao Nguyen</name>
+    <screen_name>Rosemary87</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/285690925/snnh-001_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>21</friends_count>
+    <created_at>Sat Jun 27 17:30:16 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/53110031/b4a2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>10</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue May 11 06:39:43 +0000 2010</created_at>
+  <id>13774180722</id>
+  <text>too tired to work :(</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>51498283</id>
+    <name>Thao Nguyen</name>
+    <screen_name>Rosemary87</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/285690925/snnh-001_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>21</friends_count>
+    <created_at>Sat Jun 27 17:30:16 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/53110031/b4a2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>10</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Thu May 06 11:12:45 +0000 2010</created_at>
+  <id>13481370936</id>
+  <text>in class. Everybody looks tired</text>
+  <source>&lt;a href=&quot;http://m.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;mobile web&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>51498283</id>
+    <name>Thao Nguyen</name>
+    <screen_name>Rosemary87</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/285690925/snnh-001_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>21</friends_count>
+    <created_at>Sat Jun 27 17:30:16 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/53110031/b4a2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>10</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Thu May 06 11:11:17 +0000 2010</created_at>
+  <id>13481315611</id>
+  <text>hot and hard-working day</text>
+  <source>&lt;a href=&quot;http://m.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;mobile web&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>51498283</id>
+    <name>Thao Nguyen</name>
+    <screen_name>Rosemary87</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/285690925/snnh-001_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>21</friends_count>
+    <created_at>Sat Jun 27 17:30:16 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/53110031/b4a2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>10</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Apr 21 11:15:28 +0000 2010</created_at>
+  <id>12570589623</id>
+  <text>first day of working. I have many things to learn</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>51498283</id>
+    <name>Thao Nguyen</name>
+    <screen_name>Rosemary87</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/285690925/snnh-001_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>21</friends_count>
+    <created_at>Sat Jun 27 17:30:16 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/53110031/b4a2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>10</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Tue Apr 27 04:35:05 +0000 2010</created_at>
+  <id>12926739561</id>
+  <text>Teen b&#7883; &#273;u&#7893;i h&#7885;c v&#236;... &#244;m nhau trong tr&#432;&#7901;ng http://www.tinhyeu.com.vn/yaf_postsm7392_Teen-b-ui-hc-v236-244m-nhau-trong-trng.aspx</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>19891040</id>
+    <name>T&#236;nh Y&#234;u</name>
+    <screen_name>tinhyeu</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a2.twimg.com/profile_images/285216638/GreenUpload.Com_1203522894_11_normal.jpg</profile_image_url>
+    <url>http://www.tinhyeu.com.vn</url>
+    <protected>false</protected>
+    <followers_count>81</followers_count>
+    <profile_background_color>ffb0ee</profile_background_color>
+    <profile_text_color>e80729</profile_text_color>
+    <profile_link_color>509100</profile_link_color>
+    <profile_sidebar_fill_color>ddffcc</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>fc034e</profile_sidebar_border_color>
+    <friends_count>261</friends_count>
+    <created_at>Mon Feb 02 03:23:18 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/20142240/bg.gif</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>3</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>4</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sat Jun 27 08:44:40 +0000 2009</created_at>
+  <id>2356966866</id>
+  <text>tr&#7901;i h&#417;i m&#432;a, cafe m&#7897;t m&#236;nh, man m&#225;c sao &#7845;y, h&#7883; h&#7883; h&#7883;</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>19891040</id>
+    <name>T&#236;nh Y&#234;u</name>
+    <screen_name>tinhyeu</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a2.twimg.com/profile_images/285216638/GreenUpload.Com_1203522894_11_normal.jpg</profile_image_url>
+    <url>http://www.tinhyeu.com.vn</url>
+    <protected>false</protected>
+    <followers_count>81</followers_count>
+    <profile_background_color>ffb0ee</profile_background_color>
+    <profile_text_color>e80729</profile_text_color>
+    <profile_link_color>509100</profile_link_color>
+    <profile_sidebar_fill_color>ddffcc</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>fc034e</profile_sidebar_border_color>
+    <friends_count>261</friends_count>
+    <created_at>Mon Feb 02 03:23:18 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/20142240/bg.gif</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>3</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>4</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon May 18 06:21:03 +0000 2009</created_at>
+  <id>1833458435</id>
+  <text>Tr&#7901;i m&#432;a gi&#243; th&#7845;t th&#432;&#7901;ng, m&#7879;t qu&#225;</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>19891040</id>
+    <name>T&#236;nh Y&#234;u</name>
+    <screen_name>tinhyeu</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a2.twimg.com/profile_images/285216638/GreenUpload.Com_1203522894_11_normal.jpg</profile_image_url>
+    <url>http://www.tinhyeu.com.vn</url>
+    <protected>false</protected>
+    <followers_count>81</followers_count>
+    <profile_background_color>ffb0ee</profile_background_color>
+    <profile_text_color>e80729</profile_text_color>
+    <profile_link_color>509100</profile_link_color>
+    <profile_sidebar_fill_color>ddffcc</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>fc034e</profile_sidebar_border_color>
+    <friends_count>261</friends_count>
+    <created_at>Mon Feb 02 03:23:18 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/20142240/bg.gif</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>3</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>4</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>

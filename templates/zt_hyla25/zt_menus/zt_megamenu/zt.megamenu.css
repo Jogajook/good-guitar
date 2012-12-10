@@ -1,0 +1,285 @@
+.menusys_mega {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.menusys-left {
+ width: 450px;
+ float: left;
+}
+.menusys-right {
+ width: 400px;
+ float: right;
+}
+#menusys_mega {
+	margin:22px 0 0;
+	padding: 0;
+	float: left;
+	width: 100%;
+	height:36px;
+}
+#menusys_mega .menusub_mega {
+	margin: 0;
+	position: absolute;
+	z-index: 888;
+	padding:0px;
+}
+#menusys_mega .menusub_mega .menusub_mega{ margin:-31px 0 0 0 !important;}
+
+#menusys_mega .megacol .submenu-wrap{
+	background:0;
+	border:0;
+}
+
+#menusys_mega li {
+	background: none;
+	cursor: pointer;
+	display:block;
+	float:left;
+	margin:0 15px 0 0;
+	padding:0;
+}
+
+#menusys_mega li a {
+	display:block;
+	line-height:30px;
+	padding:0 0 0 10px;
+	text-decoration:none;
+}
+#menusys_mega li a span.menu-title {
+    border: medium none;
+    color: #FFFFFF;
+    display: block;
+    font-size: 120%;
+	font-family: "Times New Roman";
+	height:30px;
+	line-height:27px;
+    padding-right: 10px;
+}
+
+#menusys_mega .menu-image {
+	border: none;
+	float: left;
+	padding: 0px;
+}
+#menusys_mega .menu-image img {
+}
+#menusys_mega li:hover,
+#menusys_mega li:active,
+#menusys_mega li:focus {
+}
+#menusys_mega .active {
+	
+}
+
+/*#menusys_mega li:hover a,
+#menusys_mega li:active a,
+#menusys_mega li:focus a,
+#menusys_mega li a.active,
+#menusys_mega li a.active:hover,
+#menusys_mega li a.active:active,
+#menusys_mega li a.active:focus {
+    background: url("../../images/green/submainmenu_bg.png") no-repeat scroll left 0 transparent;
+}*/
+/*#menusys_mega li:hover a .menu-title,
+#menusys_mega li:active a .menu-title,
+#menusys_mega li:focus a .menu-title,
+#menusys_mega li a.active .menu-title,
+#menusys_mega li a.active:hover .menu-title,
+#menusys_mega li a.active:active .menu-title,
+#menusys_mega li a.active:focus .menu-title {
+    background: url("../../images/green/submainmenu_bg.png") no-repeat scroll right -60px transparent;
+    color: #34642F;
+}*/
+#menusys_mega li:hover a .menu-desc,
+#menusys_mega li:active a .menu-desc,
+#menusys_mega li:focus a .menu-desc,
+#menusys_mega li a.active .menu-desc,
+#menusys_mega li a.active:hover .menu-desc,
+#menusys_mega li a.active:active .menu-desc,
+#menusys_mega li a.active:focus .menu-desc {
+	color: #ffffff;
+}
+
+span.has-image {
+	display: block;
+	background-repeat: no-repeat;
+	background-position: 0 4px;
+}
+#menusys_mega li.first-item  span.has-image { width: 21px; height: 21px; margin:10px 0 0 10px;}
+#menusys_mega li.first-item  span.has-image span.menu-title{ display: none;}
+span.no-image {
+	display: block;
+}
+#menusys_mega li.active.first-item span.no-image, #menusys_mega li.first-item span.no-image:hover{ background:url(../../images/hover-icon-home.png) no-repeat;}
+
+#menusys_mega .mega-group{
+	margin:0;
+	padding:0;
+}
+
+
+#menusys_mega .megacol {
+	float: left;
+	padding: 0;
+
+}
+
+#menusys_mega .mega-group a{
+	padding:0;
+	margin:0;
+}
+#menusys_mega .mega-group .menu-title{ 
+	font-size:120%;
+	padding:10px 0 10px 15px;
+	line-height:100%;
+	color:#ffffff !important;
+	text-shadow:none  !important;
+}
+
+#menusys_mega .mega-group .menu-desc{
+	font-size:70%;
+	padding:0;
+	line-height:20px;
+	color:#ffffff !important;
+} 
+#menusys_mega .megacol li ul {
+	padding: 0;
+	margin: 0;
+}
+#menusys_mega .megacol ul li {
+	float:none;
+	height:auto;
+	padding:0;
+    margin: 0;
+	line-height: 30px;
+	height: 30px;
+	
+}
+#menusys_mega .megacol ul li.first-item span.menu-title{ display:block; background:none;}
+.zt-joomla-morbi .img-morbi{
+	cursor:pointer;
+	border:7px solid #FFFFFF;
+}
+.zt-joomla-morbi .img-morbi:hover{
+    border: 7px solid #FFD900;	
+}
+#menusys_mega .megacol ul li a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size:100%;
+	padding:0;
+	margin:0;
+	height:auto;
+	line-height: 30px;
+	height: 30px;
+	background:none;
+}
+
+#menusys_mega .megacol ul li a span.no-image {
+    background: none repeat scroll 0 0 transparent !important;
+    color: #909090 !important;
+    font-weight: normal;
+    height: auto;
+    line-height: 28px;
+    text-transform: none;
+}
+#menusys_mega .megacol ul li.last-item a span.no-image {
+	background:none;	
+}
+#menusys_mega .megacol ul li a .menu-title {
+    background: none;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 30px;
+    padding: 0 0 0 35px;
+}
+#menusys_mega .megacol ul li a:hover,
+#menusys_mega .megacol ul  li a:active,
+#menusys_mega .megacol ul  li a:focus,
+#menusys_mega .megacol ul  li a.active,
+#menusys_mega .megacol ul  li a.active:hover,
+#menusys_mega .megacol ul  li a.active:active,
+#menusys_mega .megacol ul  li a.active:focus{
+	color: #FFFFFF !important;
+}
+#menusys_mega .megacol ul li a:hover .menu-title ,
+#menusys_mega .megacol ul  li a:active .menu-title ,
+#menusys_mega .megacol ul  li a:focus .menu-title ,
+#menusys_mega .megacol ul  li a.active .menu-title ,
+#menusys_mega .megacol ul  li a.active:hover .menu-title ,
+#menusys_mega .megacol ul  li a.active:active .menu-title ,
+#menusys_mega .megacol ul  li a.active:focus .menu-title {
+    color: #FFFFFF !important;
+}
+	
+#menusys_mega .megacol ul li a:hover  span.no-image,
+#menusys_mega .megacol ul  li a:active  span.no-image,
+#menusys_mega .megacol ul  li a:focus  span.no-image,
+#menusys_mega .megacol ul  li a.active  span.no-image,
+#menusys_mega .megacol ul  li a.active:hover  span.no-image,
+#menusys_mega .megacol ul  li a.active:active  span.no-image,
+#menusys_mega .megacol ul  li a.active:focus  span.no-image{
+    color: #FFFFFF !important;	
+}
+
+.menusub_mega {
+ /*	display: none; */
+}
+#menusys_mega ul li.hover, 
+#menusys_mega ul li.havesubchildhover, 
+#menusys_mega ul li.havesubchild-activehover, 
+#menusys_mega ul ul li.hover, 
+#menusys_mega ul ul li.havesubchildhover, 
+#menusys_mega ul ul li.havesubchild-activehover {
+    color: #FFFFFF !important;
+}
+
+#menusys_mega .megacol ul li.hasChild.hover{
+	height:30px;
+}
+.subarrowtop{
+	background:url('../../images/megamenu/arrow.png') top left no-repeat;
+	width:12px;
+	height:6px;
+	position: absolute;
+	top: 0px;
+	left:32px;
+}
+.subwrapcenter{
+	background:#282828;
+	float:left;
+	margin:6px 0 0 0;
+	display:block;
+}
+#menusys_mega .menusub_mega .menusub_mega .subarrowtop{ display:none;}
+#menusys_mega .menusub_mega .menusub_mega .subwrapcenter{margin:0;}
+#menusys_mega .menusub_mega .mega-module {
+	clear: both;
+	padding: 0;
+}
+#menusys_mega  .menusub_mega .moduletable {
+	padding:0;
+	margin:0;
+}
+#menusys_mega  .menusub_mega .zt-joomla-morbi{
+	padding: 10px 15px;	
+	color:#E2E2E2;
+}
+#menusys_mega  .menusub_mega .zt-joomla-morbi p{
+	line-height:20px;
+	margin:5px 0;
+}
+#menusys_mega  .menusub_mega .zt-joomla-morbi a.read-more{
+	float:right;
+	line-height:100%;
+	border:0 !important;
+	text-transform: none !important;
+}
+#menusys_mega  .menusub_mega .zt-joomla-morbi a.read-more:hover{
+	color:#FEA011 !important;	
+}
+.megacol .mega-ul{ 
+	margin: 0;
+	padding:0;
+}

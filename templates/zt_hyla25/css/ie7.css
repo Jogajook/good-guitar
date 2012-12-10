@@ -1,0 +1,15 @@
+.button {
+	padding: 3px 5px 4px 5px;
+}
+div.module-into,
+div.moduletable,
+div.moduletable_menu,
+div.moduletable_text,
+div.module,
+div.module_menu,
+div.module_text {
+	overflow: hidden;
+}
+#jv-mass-top div.modulecontent  {
+	
+}

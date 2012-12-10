@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5" client="site" method="upgrade">
+	
+     <name>ZT News</name>
+     <author>ZooTemplate</author>
+     <creationDate>January 31, 2012</creationDate>
+     <copyright>ZooTemplate.Com</copyright>
+     <authorEmail>support@ZooTemplate.com</authorEmail>
+     <authorUrl>www.ZooTemplate.com</authorUrl>
+     <version>2.5.2</version>
+     <description>ZT News allows you display previews of articles on the front page</description>
+	 
+     <files>
+	 	<filename module="mod_zt_news">mod_zt_news.php</filename>		  
+		<filename>helper.php</filename>
+		<filename>zt_thumbnail.php</filename>
+		<filename>ztnews_ajax.php</filename> 
+		<filename>ajax.php</filename>	
+		<filename>index.html</filename>	
+		<folder>assets/</folder>
+		<folder>tmpl/</folder>	
+		<folder>elements/</folder>		
+	 </files>
+	 
+     <languages>
+		    <language tag="en-GB">en-GB.mod_zt_news.ini</language>
+	 </languages>
+	 
+	 <config addfieldpath="/modules/mod_zt_news/elements/">
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />      
+				<field name="template_type" type="folderlist" label="Select template" description="Select template" directory="/modules/mod_zt_news/tmpl" hide_default="1" hide_none="1" />
+				<field name="columns" type="list" default="2" label="Number Of Column" description="Number Of Column">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</field>    
+				<field name="image_width" type="text" default="100" label="Image Width" description="Image width" />
+				<field name="image_height" type="text" default="65" label="Image Height" description ="Image Height" />     
+				<field name="intro_length" type="text" default="30" label="Intro Text Length" description="Intro text length" />     
+			</fieldset>
+		  
+			<fieldset name="SOURCE">
+				<field name="source" type="list" default="category" label="SOURCE_FROM" description="SOURCE_FROM_DESC">
+					<option value="category">CATEGORY</option>
+					<option value="k2_category">K2_CATEGORY</option>
+				</field>
+				<field name="catid" type="category" extension="com_content" multiple="true" size="10" label="CATEGORY" description="CATEGORY_DESC" />
+				<field name="k2_catid" type="k2categories" multiple="true" size="10" label="K2_CATEGORY" description="K2_CATEGORY_DESC" />
+				<field name="cat_ordering" default="1" type="list" label="Category Ordering" description="Category Ordering">     
+					<option value="1">Title Alphabetical</option>
+					<option value="2">Title Reverse - Alphabetical </option>
+					<option value="3">Order</option>
+				</field>
+				<field name="no_intro_items" type="text" default="1" label="Number Of Intro Items" description="Number Of Intro Items" />
+				<field name="no_link_items" type="text" default="2" label="Number Of Link Items" description="Number Of Link Items" /> 
+				<field name="is_image" type="radio" default="1" label="Show Image" description="Show image">
+					<option value="0">Hide</option>
+					<option value="1">Show</option>
+				</field>
+				<field name="img_align" type="list" default="left" label="Image Align" description="Image Algin">
+					<option value="left">Left</option>
+					<option value="right">Right</option>
+				</field>
+				<field name="show_readmore" type="radio" default="0" label="Show Readmore" description="Show Readmore">
+					<option value="0">Hide</option>
+					<option value="1">Show</option>
+				</field>
+				
+				<field name="v_section" type="vsection" label="" description="" />
+				<field name="v_section_orderding" default="1" type="list" label="Section Ordering" description="Section Ordering">
+					<option value="1">Title Alphabetical</option>
+					<option value="2">Title Reverse - Alphabetical </option>
+					<option value="3">Order Descending</option>
+					<option value="4">Order Ascending</option>
+				</field>
+				<field name="v_no_latest_item" type="text" default="3" label="Number latest item of section" description="No latest item of section" />
+				<field name="v_no_link_item" type="text" default="5" label="Number of link items" description="Number of link items" />
+				<field name="v_min_item" type="text" default="1" label="Min items in each category" description="Min items in each category" />
+				<field name="v_max_item" type="text" default="5" label="Max items in each category" description="Max items in each category" />
+				<field name="v_default_item" type="text" default="3" label="Default items in each category" description="Default items in each category" />
+		  </fieldset>
+		  
+		  
+		  <fieldset name="advanced">
+			   <field name="cache" type="list" default="0" label="Caching" description="Select whether to cache the content of this module">
+				   <option value="1">Use global</option>
+				   <option value="0">No caching</option>
+			   </field>
+			   <field name="cache_time" type="text" default="900" label="Cache Time" description="The time before the module is recached" />
+		  </fieldset>
+		</fields>
+	 </config>
+</extension>

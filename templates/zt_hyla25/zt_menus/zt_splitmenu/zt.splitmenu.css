@@ -1,0 +1,238 @@
+.menusys_split {
+	float: left;
+}
+
+#menusys_split {
+	margin: 0;
+	padding: 0;
+	float: left;
+	height: 44px;
+}
+
+#menusys_split ul {
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+
+#menusys_split li {
+	margin: 0 2px 0 0; 
+	padding: 0;
+	float: left;
+	display: block;
+	background: none;
+	cursor: pointer;
+}
+
+/* Menu styling begin */
+#menusys_split li a {
+	padding: 0 0 0 15px;
+	display: block;
+	text-decoration: none;
+	line-height: 44px;
+	
+}
+#menusys_split li a span {
+	padding: 0 15px 0px 0;
+	border: none;
+	display: block;
+	line-height: 44px;
+	color: #fff;
+	font-weight: bold;
+	font-size:12px;
+	text-shadow: 0px 1px 1px #63676a;
+	text-transform: uppercase;
+}
+
+#menusys_split li a:hover, 
+#menusys_split li a:active, 
+#menusys_split li a:focus {
+}
+#menusys_split li a:hover span, 
+#menusys_split li a:active span, 
+#menusys_split li a:focus span {
+	color: #fff;
+}
+#menusys_split li:hover a, 
+#menusys_split li.hover a, 
+#menusys_split li.havechildhover a, 
+#menusys_split li.havechild-activehover a {
+	background: url(../../images/bg-mainmenu-hover.png) repeat-x 0 0;
+}
+
+#menusys_split li:hover a span,
+#menusys_split li.hover a span, 
+#menusys_split li.havechildhover a span, 
+#menusys_split li.havechild-activehover a span {
+	background: url(../../images/bg-mainmenu-hover.png) repeat-x 0 0;
+}
+
+#menusys_split li a.active,
+#menusys_split li a.active:hover,
+#menusys_split li a.active:active,
+#menusys_split li a.active:focus {
+	background: url(../../images/bg-mainmenu-active.png) repeat-x 0 0;
+}
+
+#menusys_split li a.active span,
+#menusys_split li a.active:hover span,
+#menusys_split li a.active:active span,
+#menusys_split li a.active:focus span {
+	color: #fff;
+	text-shadow: 1px 1px 1px #292c2e;
+	background: url(../../images/bg-mainmenu-active.png) repeat-x 0 0;
+}
+
+#jv-submenu div.menusys_split {
+	clear: both;
+	display: block;
+	
+	margin: 0 0 0 10px;
+	padding: 0;
+}
+#menusub_split {
+	margin: 0;
+	padding: 0;
+	float: left;
+	height: 30px;
+	display: block;
+}
+#menusub_split li {
+	margin: 0 5px 0 0; 
+	padding: 0;
+	float: left;
+	display: block;
+	background: none;
+	cursor: pointer;
+}
+#menusub_split li a {
+	padding: 0 ;
+
+	text-decoration: none;
+	line-height: 29px;
+}
+#menusub_split li a span {
+	padding: 0 10px;
+	line-height: 29px;
+	display: block;
+	border: none;
+	color: #909090;
+}
+
+#menusub_split li a:hover ,
+#menusub_split li a:active ,
+#menusub_split li a:focus {
+	background: #1f2123;
+	display: block;
+	
+}
+#menusub_split li a.active span,
+#menusub_split li a:hover span,
+#menusub_split li a:active span,
+#menusub_split li a:focus span{
+	color:#fff;
+	text-shadow: 0px 0px 10px #c2c5c8;
+}
+#menusub_split li ul {
+	width: 16.9em;
+	position: absolute;
+	z-index: 99;
+	left: -999em; 
+	height: auto;
+	margin: 0;
+	background: #525252;
+	border-top: solid 1px #26292b;
+	border-left: solid 1px #26292b;
+	border-right: solid 1px #26292b;
+}
+#menusub_split li ul ul {
+	margin: -1.8em 0 0 15.5em;
+}
+#menusub_split li li {
+	padding: 0;
+	line-height: 24px;
+	margin: 0;
+	width: 16.9em;
+}
+#menusub_split ul a {
+}
+#menusub_split li:hover ul ul, #menusub_split li:hover ul ul ul,
+#menusub_split li.hover ul ul, #menusub_split li.havechildhover ul ul, #menusub_split li.havechild-activehover ul ul, #menusub_split li.activehover ul ul,
+#menusub_split li.hover ul ul ul, #menusub_split li.havechildhover ul ul ul, #menusub_split li.havechild-activehover ul ul ul, #menusub_split li.activehover ul ul ul {
+	left: -999em;
+}
+#menusub_split li:hover ul, #menusub_split li li:hover ul, #menusub_split li li li:hover ul,
+#menusub_split li.hover ul, #menusub_split li.havechildhover ul, #menusub_split li.havechild-activehover ul, #menusub_split li.activehover ul,
+#menusub_split li li.hover ul, #menusub_split li li.havesubchildhover ul, #menusub_split li li.havesubchild-activehover ul, #menusub_split li li.activehover ul,
+#menusub_split li li li.hover ul, #menusub_split li li li.havesubchildhover ul, #menusub_split li li li.havesubchild-activehover ul, #menusub_split li li li.activehover ul {
+	left: auto;
+}
+#menusub_split li:hover a.active span,
+#menusub_split li a:hover span,
+#menusub_split li a:active span,
+#menusub_split li a:focus span,
+#menusub_split li a.active:hover span,
+#menusub_split li a.active:active span,
+#menusub_split li a.active:focus span,
+#menusub_split li:hover a span,
+#menusub_split li.hover a span,
+#menusub_split li.havechildhover a span,
+#menusub_split li.havechild-activehover a span {
+	
+}
+#menusub_split li ul ul li {
+}
+#menusub_split li ul li {
+	border-bottom: solid 1px #2d2f32;
+	background: #202224 url(../../images/bt-menuright.png) repeat-x top;
+}
+#menusub_split li ul li.hasChild {
+}
+#menusub_split li ul a {
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+	height: auto;
+	border: none !important;
+}
+#menusub_split li ul a:hover,
+#menusub_split li ul a:active,
+#menusub_split li ul a:focus {
+}
+#menusub_split li ul a span {
+	padding: 0 0 0 20px;
+	line-height: 28px;
+	font-weight: normal;
+	background: none !important;
+	text-transform: none;
+	color: #909090 !important;
+}
+#menusub_split li.havesubchild,
+#menusub_split li.havesubchild-active {
+}
+#menusub_split li ul a:hover,
+#menusub_split li ul a:active,
+#menusub_split li ul a:focus,
+#menusub_split ul li:hover,
+#menusub_split ul li.hover,
+#menusub_split ul li.havesubchildhover,
+#menusub_split ul li.havesubchild-activehover,
+#menusub_split ul ul li:hover,
+#menusub_split ul ul li.hover,
+#menusub_split ul ul li.havesubchildhover,
+#menusub_split ul ul li.havesubchild-activehover {
+	background: #27292b;
+}
+#menusub_split li ul a.active span,
+#menusub_split li ul a:hover span,
+#menusub_split li ul a:active span,
+#menusub_split li ul a:focus span {
+	color: #fff !important;
+	text-shadow: 0px 0px 15px #c2c5c8;
+}
+#menusub_split ul li a.active {
+}
+#menusub_split ul li a.active:hover,
+#menusub_split ul li a.active:active,
+#menusub_split ul li a.active:focus {
+}

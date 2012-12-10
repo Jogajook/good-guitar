@@ -1,0 +1,198 @@
+div.jv-frame-cat {
+	width: 100%;
+	overflow: hidden;
+}
+div.jv-frame-cat .jv-category {
+	margin: 0 0 10px 0;
+	float: left;
+}
+div.jv-frame-cat .jv-category .jvpadding {
+	padding-right: 10px;
+}
+.news_section div.news_mask{
+	float:left;
+	padding:0;		
+	position: relative;	
+}
+.news_section{
+	overflow: hidden;
+}
+.news_section div.news_mask div.news_img{
+	position: absolute;	
+	height: 100%;
+}
+.news_title .title a{
+	color:#851607;
+	line-height: 16px;
+	text-decoration: none;
+}
+div.news_img a{display:block;}
+div.jv_news_cat_main{
+	background:url(../images/l.gif) top left repeat-y #FFFFFF;			
+	width:100%;
+}
+div.jv_news_cat_r{
+	background:url(../images/r.gif) top right repeat-y;
+}
+div.jv_news_bc{
+	background:url(../images/bc.gif) bottom left repeat-x;
+}
+div.jv_news_bl{
+	background:url(../images/bl.gif) no-repeat bottom left;  
+}
+div.jv_news_br{
+	background:url(../images/br.gif) no-repeat bottom right;
+}
+div.jv_news_tl{
+	width:100%;
+	background:url(../images/tl.gif) no-repeat top left;
+}
+div.jv_news_tc{
+	background:url(../images/tc.gif) repeat-x top left;
+}
+div.jv_news_tr{
+	padding:5px 2px 5px 5px;
+	background:url(../images/tr.gif) no-repeat top right;
+}
+.news_slidecontent{
+	padding-bottom: 5px;
+	overflow: hidden;
+}
+div.news_bar a.item{
+	background:url(../images/item.png) repeat-x #CF6D5B; 
+	color: #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;
+	text-decoration: none;
+} 
+div.news_bar a.selected {
+	background:url(../images/item_active.png) repeat-x #A02000 !important;
+}
+.news_bar a.item{
+	display: block;
+}
+.news_bar a.item span{
+	margin:0;
+	color:#FFFFFF;	
+	display:block;
+	padding:5px 5px 1px 7px;
+}
+ul.news_more,ul.cat_morelink{
+	border-top:1px solid #CCCCCC;
+	list-style: none outside none;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+ul.news_more li,ul.cat_morelink li{	
+	line-height:1.5 !important;	
+	padding: 2px 0 0 5px !important;
+	list-style: none;
+}
+ul.news_more li a,ul.cat_morelink li a{
+	background:url("../images/item_icon.png") no-repeat scroll 0 5px transparent !important;
+	color:#851607 !important;
+	display:block;
+	padding:0 0 0 15px !important;
+	text-decoration: none;
+}
+div.news_title{
+	position: relative;
+	width:100%;	
+	color:#547188;
+}
+div.news_title div.title{
+	margin:0;	
+	cursor:pointer;
+	padding:8px 30px 8px 22px;
+	font-size: 20px;	
+}
+div.news_title  div.expand{
+	background:url(../images/expand.png) no-repeat 5px center;
+}
+div.news_title  div.collapse{
+	background:url(../images/collapse.png) no-repeat 5px center;
+}
+div.news_action div.news_edit{
+	position: absolute;
+	top:5px;
+	cursor:pointer;
+	width:45px;
+	background:url(../images/edit.png) no-repeat;
+	height: 24px;
+	right:10px;
+}
+div.news_option{
+	width:100%;
+	background:#4E4E4E repeat-x;
+	overflow: hidden;
+	color:#FFFFFF;
+}
+div.news_option form{
+	margin: 0;
+	padding:8px 14px 10px 40px;
+	overflow: hidden;
+}
+p.wrap_button{
+	clear:both;
+	padding-top:5px;
+	text-align: right;
+}
+ul.option_category{
+	list-style: none outside none;
+	width:98%;
+	margin:0 !important;
+	padding:0 !important;
+	overflow: hidden;
+}
+ul.option_category li{
+	float:left;
+	background:none;
+	padding-left:0px !important;
+	width:49%;
+	list-style: none;
+}
+div.news_content_category,div.item_header_wrap,div.wrap_news_more{width:100%;}
+div.item_header_wrap{float:left;}
+div.news_content_category div.item_header{
+	background-color:#EEEEEE;
+	border-top: 1px solid #FFFFFF;
+	padding: 6px 11px;	
+	overflow: hidden;
+}
+div.news_content_category div.item_header a{		
+	padding-left: 15px;
+	float:left;
+	text-transform:uppercase;
+	color:#494949;
+}
+div.news_content_category div.item_header a.title{
+	background:url(../images/cat_icon.png) left no-repeat; 
+}
+div.cat_addremove{
+	float: right;
+	padding-right: 5px;
+}
+ul.cat_morelink{width:100%;}
+a.cat_add{
+	height:16px;
+	width:14px;	
+	background: url(../images/add.png) no-repeat;
+}
+a.cat_remove{
+	height:16px;
+	width:14px;
+	background: url(../images/remove.png) no-repeat;
+}
+table.input_amount{
+	width: 98%;
+}
+table.input_amount td.params_label{width:150px;}
+table.input_amount td.params_input{text-align: left}
+div.news_option hr{	
+	height: 1px;
+	border:0;
+	background-color: #FFFFFF;
+	width:100%;
+	color:#FFFFFF;
+}
+.cls{clear: both;}
+.block{display: none;}

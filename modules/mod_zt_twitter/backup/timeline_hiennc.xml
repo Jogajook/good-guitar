@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Tue Sep 07 15:38:33 +0000 2010</created_at>
+  <id>23247643986</id>
+  <text>If you tweet &#8212; you will tweet.</text>
+  <source>&lt;a href=&quot;http://www.khawaib.co.uk/web-design/twitter-anywhere-linkify-hovercards-follow-and-tweet-box.html&quot; rel=&quot;nofollow&quot;&gt;Khawaib Ahmed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>44375703</id>
+    <name>Nguy&#7877;n C&#244;ng Hi&#7871;n</name>
+    <screen_name>hiennc</screen_name>
+    <location>Viet Nam</location>
+    <description>&#272;&#7865;p trai, nh&#224; gi&#224;u, h&#7885;c gi&#7887;i ngo&#224;i ra kh&#244;ng c&#243; g&#236; &#273;&#7863;c bi&#7879;t c&#7843; !</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/283277271/Picture0019_normal.jpg</profile_image_url>
+    <url>http://vn.myblog.yahoo.com/mr_hiennc</url>
+    <protected>false</protected>
+    <followers_count>32</followers_count>
+    <profile_background_color>0c0d0d</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0099B9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5ED4DC</profile_sidebar_border_color>
+    <friends_count>32</friends_count>
+    <created_at>Wed Jun 03 15:02:00 +0000 2009</created_at>
+    <favourites_count>60</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19660113/15.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>92</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Sep 07 14:56:53 +0000 2010</created_at>
+  <id>23244018461</id>
+  <text>A B C d&#234; &#272; E</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>44375703</id>
+    <name>Nguy&#7877;n C&#244;ng Hi&#7871;n</name>
+    <screen_name>hiennc</screen_name>
+    <location>Viet Nam</location>
+    <description>&#272;&#7865;p trai, nh&#224; gi&#224;u, h&#7885;c gi&#7887;i ngo&#224;i ra kh&#244;ng c&#243; g&#236; &#273;&#7863;c bi&#7879;t c&#7843; !</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/283277271/Picture0019_normal.jpg</profile_image_url>
+    <url>http://vn.myblog.yahoo.com/mr_hiennc</url>
+    <protected>false</protected>
+    <followers_count>32</followers_count>
+    <profile_background_color>0c0d0d</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0099B9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5ED4DC</profile_sidebar_border_color>
+    <friends_count>32</friends_count>
+    <created_at>Wed Jun 03 15:02:00 +0000 2009</created_at>
+    <favourites_count>60</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19660113/15.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>92</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Sep 07 14:24:01 +0000 2010</created_at>
+  <id>23241214115</id>
+  <text>[... n&#7871;U c&#211; th&#7874; kI&#7871;p saU xIn l&#224;m gi&#211; ... cU&#7889;n h&#7871;T b&#7908;i &#273;&#431;&#7901;ng ch0 c&#7886;, l&#225; th&#202;m xanh ...]</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>44375703</id>
+    <name>Nguy&#7877;n C&#244;ng Hi&#7871;n</name>
+    <screen_name>hiennc</screen_name>
+    <location>Viet Nam</location>
+    <description>&#272;&#7865;p trai, nh&#224; gi&#224;u, h&#7885;c gi&#7887;i ngo&#224;i ra kh&#244;ng c&#243; g&#236; &#273;&#7863;c bi&#7879;t c&#7843; !</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/283277271/Picture0019_normal.jpg</profile_image_url>
+    <url>http://vn.myblog.yahoo.com/mr_hiennc</url>
+    <protected>false</protected>
+    <followers_count>32</followers_count>
+    <profile_background_color>0c0d0d</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0099B9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5ED4DC</profile_sidebar_border_color>
+    <friends_count>32</friends_count>
+    <created_at>Wed Jun 03 15:02:00 +0000 2009</created_at>
+    <favourites_count>60</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19660113/15.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>92</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Sep 07 11:48:15 +0000 2010</created_at>
+  <id>23230140841</id>
+  <text>1 2 3 ng&#244;i sao ...</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>44375703</id>
+    <name>Nguy&#7877;n C&#244;ng Hi&#7871;n</name>
+    <screen_name>hiennc</screen_name>
+    <location>Viet Nam</location>
+    <description>&#272;&#7865;p trai, nh&#224; gi&#224;u, h&#7885;c gi&#7887;i ngo&#224;i ra kh&#244;ng c&#243; g&#236; &#273;&#7863;c bi&#7879;t c&#7843; !</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/283277271/Picture0019_normal.jpg</profile_image_url>
+    <url>http://vn.myblog.yahoo.com/mr_hiennc</url>
+    <protected>false</protected>
+    <followers_count>32</followers_count>
+    <profile_background_color>0c0d0d</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0099B9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5ED4DC</profile_sidebar_border_color>
+    <friends_count>32</friends_count>
+    <created_at>Wed Jun 03 15:02:00 +0000 2009</created_at>
+    <favourites_count>60</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19660113/15.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>92</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Jan 08 15:46:15 +0000 2010</created_at>
+  <id>7522531744</id>
+  <text>Thanh H&#224; H&#7897;i Qu&#225;n - Thanh H&#224; - H&#7843;i D&#432;&#417;ng.
+http://thanhha.biz Di&#7877;n &#273;&#224;n c&#7911;a ng&#432;&#7901;i Thanh H&#224; - H&#7843;i D&#432;&#417;ng !</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>44375703</id>
+    <name>Nguy&#7877;n C&#244;ng Hi&#7871;n</name>
+    <screen_name>hiennc</screen_name>
+    <location>Viet Nam</location>
+    <description>&#272;&#7865;p trai, nh&#224; gi&#224;u, h&#7885;c gi&#7887;i ngo&#224;i ra kh&#244;ng c&#243; g&#236; &#273;&#7863;c bi&#7879;t c&#7843; !</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/283277271/Picture0019_normal.jpg</profile_image_url>
+    <url>http://vn.myblog.yahoo.com/mr_hiennc</url>
+    <protected>false</protected>
+    <followers_count>32</followers_count>
+    <profile_background_color>0c0d0d</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0099B9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5ED4DC</profile_sidebar_border_color>
+    <friends_count>32</friends_count>
+    <created_at>Wed Jun 03 15:02:00 +0000 2009</created_at>
+    <favourites_count>60</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19660113/15.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>92</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Jan 08 15:45:35 +0000 2010</created_at>
+  <id>7522509450</id>
+  <text>If it&#8217;s what you want, it&#8217;s what I want ! I want what&#8217;s best for you ...</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count></retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>44375703</id>
+    <name>Nguy&#7877;n C&#244;ng Hi&#7871;n</name>
+    <screen_name>hiennc</screen_name>
+    <location>Viet Nam</location>
+    <description>&#272;&#7865;p trai, nh&#224; gi&#224;u, h&#7885;c gi&#7887;i ngo&#224;i ra kh&#244;ng c&#243; g&#236; &#273;&#7863;c bi&#7879;t c&#7843; !</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/283277271/Picture0019_normal.jpg</profile_image_url>
+    <url>http://vn.myblog.yahoo.com/mr_hiennc</url>
+    <protected>false</protected>
+    <followers_count>32</followers_count>
+    <profile_background_color>0c0d0d</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0099B9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5ED4DC</profile_sidebar_border_color>
+    <friends_count>32</friends_count>
+    <created_at>Wed Jun 03 15:02:00 +0000 2009</created_at>
+    <favourites_count>60</favourites_count>
+    <utc_offset>25200</utc_offset>
+    <time_zone>Hanoi</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/19660113/15.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>91</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>

@@ -1,0 +1,175 @@
+/*------------------------------------------------------------------------
+* JV Template 1.5 - Jan, 2010
+* ------------------------------------------------------------------------
+* Copyright (C) 2004-2010 APL Solutions And Vision Co., LTD. All Rights Reserved.
+* @license - Copyrighted Commercial Software
+* Author: APL Solutions And Vision Co., LTD
+* Websites:  http://www.joomgroup.com -  http://www.joomvision.com
+-------------------------------------------------------------------------*/
+
+#zt-mainmenu {
+	background: url(../../images/red/mainmenu_bg.png) repeat-x 0 0;
+}
+#menusys_mega li a {
+	background: url(../../images/red/submainmenu_bg.png) no-repeat left -30px;
+}
+#menusys_mega li a span.menu-title{
+	
+	background: url(../../images/red/submainmenu_bg.png) no-repeat right bottom;
+}
+#menusys_mega li:hover a,
+#menusys_mega li.hover a {
+	background: url(../../images/red/submainmenu_bg.png) no-repeat left 0;
+}
+#menusys_mega li.havechildhover a,
+#menusys_mega li.havechild-activehover a ,
+#menusys_mega li.havechildhover a span,
+#menusys_mega li.havechild-activehover a span{
+	background: url(../../images/red/submainmenu_bg.png) no-repeat right -60px;
+}
+
+#menusys_mega li a:hover span,
+#menusys_mega li a:active span,
+#menusys_mega li a:focus span,
+#menusys_mega li:hover a span,
+#menusys_mega li.hover a span{
+	background: url(../../images/red/submainmenu_bg.png) no-repeat right -60px;
+	color: #682021;
+}
+#menusys_mega li a:hover,
+#menusys_mega li a:active,
+#menusys_mega li a:focus {
+   background: url(../../images/red/submainmenu_bg.png) no-repeat left 0;
+}
+
+#menusys_mega li a.active,
+#menusys_mega li a.active:hover,
+#menusys_mega li a.active:active,
+#menusys_mega li a.active:focus {
+	background: url(../../images/red/submainmenu_bg.png) no-repeat left 0;
+}
+
+#menusys_mega li:hover a .menu-title,
+#menusys_mega li:active a .menu-title,
+#menusys_mega li:focus a .menu-title,
+#menusys_mega li a.active .menu-title,
+#menusys_mega li a.active:hover .menu-title,
+#menusys_mega li a.active:active .menu-title,
+#menusys_mega li a.active:focus .menu-title {
+	background: url(../../images/red/submainmenu_bg.png) no-repeat  right -60px;
+	color: #682021;
+}
+
+#menusys_mega li ul li {
+	height: 30px;
+	background: url(../../images/red/mainmenu_two.png) repeat-y top left;
+}
+
+#menusys_mega li ul li.first-item,
+#menusys_mega li ul li.first-itemhover {
+	background: url(../../images/red/mainmenu_one.png) no-repeat top left;
+	height: 35px;
+}
+#menusys_mega li ul li.last-item,
+#menusys_mega li ul li.last-itemhover {
+	background: url(../../images/red/mainmenu_one.png) no-repeat bottom left;
+	height: 34px;
+}
+#menusys_mega li ul li.first-last-item,
+#menusys_mega li ul li.first-last-itemhover {
+	background: url(../../images/red/mainmenu_first_last.png) no-repeat top left;
+	height: 38px;
+}
+/*slideshow*/
+.Navleft .nivo-control {
+	background: url(../../images/red/handles_item.png) no-repeat 0 0;
+}
+.Navleft > a:hover, .Navleft > a:active, .Navleft a.active{
+	background: url(../../images/red/handles_item.png) no-repeat 0 -13px;
+}
+
+#menusys_mega li ul a span.menu-title  {
+	color: #682021 !important;
+	background: url(../../images/red/dotted.png) no-repeat 15px 12px !important;
+	text-transform: none;
+}
+.rtl #menusys_mega li ul a span.menu-title{
+	background: url(../../images/red/dotted.png) no-repeat right 12px !important;
+	padding-right:20px;
+}
+
+#menusys_mega li ul a.active span,
+#menusys_mega li ul a:hover span,
+#menusys_mega li ul a:active span,
+#menusys_mega li ul a:focus span {
+	color: #fde9f6 !important;
+	text-shadow: 0 0 10px #caee9f;
+	background: url(../../images/red/dotted.png) no-repeat 15px -19px !important;
+}
+
+.rtl #menusys_mega li ul a.active span.menu-title,
+.rtl #menusys_mega li ul a:hover span.menu-title,
+.rtl #menusys_mega li ul a:active span.menu-title,
+.rtl #menusys_mega li ul a:focus span.menu-title {
+	background: url(../../images/red/dotted.png) no-repeat right -19px !important;
+}
+
+h1.componentheading, .contentheading ,
+div.latestnewsitems h4 a ,
+a.readone ,
+a
+{
+	color: #922a2d;
+}
+.grren,
+#zt-top,
+#zt-footer a, 
+#zt-copyright a,
+div.twitter li a {
+	color: #f08789;
+}
+
+.jv_aclickmenu_wrap .jv_maccordion li, 
+.jv_ahovermenu_wrap a.trigger, 
+.jv_ahovermenu_wrap .last-child a.trigger{
+	background: url(../../images/red/arrow_right.gif) no-repeat 0 7px;	
+}
+.rtl .jv_aclickmenu_wrap .jv_maccordion li, 
+.rtl .jv_ahovermenu_wrap a.trigger, 
+.rtl .jv_ahovermenu_wrap .last-child a.trigger{
+	background: url(../../images/red/arrow_right_rtl.png) no-repeat right 7px;	
+}
+
+.zt_ahovermenu_wrap a.open {
+	background: url(../../images/red/arrow_right_down.gif) no-repeat 0 7px;
+}
+div.module_right input.button_right, 
+input.button1, 
+input.button2, 
+button.button {
+	background: url(../../images/red/search_bg.png) no-repeat 0 0 ;
+	
+}
+input.button2 {
+	background: url(../../images/red/search_bg.png) no-repeat;
+}
+div.zt-c {
+	background: url(../../images/red/right_two.png) repeat 0 0;
+	
+}
+div.zt-tc {
+	background: url(../../images/red/right_one.png) no-repeat 0 0;
+}
+div.zt-bc {
+	background: url(../../images/red/right_one.png) no-repeat 0 -14px;
+}
+body#bd {
+	background: url(../../images/red/bd.jpg) repeat 0 0;
+}
+
+ul.pagination li span  {
+	background: #922a2d;
+}
+ul.pagination a:hover span span, ul.pagination a:active span span, ul.pagination a:focus span span  {
+	border: 1px solid #922a2d;
+}

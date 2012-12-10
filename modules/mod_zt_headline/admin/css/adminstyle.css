@@ -1,0 +1,275 @@
+.pane-sliders .panel {
+	border: medium !important;
+}
+div.panel > h3 {
+    background: url("../images/toolbar.png") repeat-x scroll 0 0 transparent !important;
+    border: 1px solid #dddddf;
+    border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px;
+    font: bold 12px/43px Arial,Helvetica,sans-serif;
+    height: 43px;
+    text-transform: uppercase;
+	padding: 0 !important;
+}
+div.panel > h3 > a{
+	color: #4e4e4e;
+}
+div.panel h3.pane-toggler-down {
+    background: url("../images/toolbar.png") repeat-x scroll 0 35% transparent !important;
+}
+div.panel > h3 a:hover, div.panel h3.pane-toggler-down a {
+    color: #e05e2e;
+}
+div.panel select {
+	padding: 3px !important;
+	color: #555555;
+	font-size: 11px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	margin: 0px;
+	margin-bottom: 4px;
+}
+div.panel input {
+	color: #555555;
+	font-size: 11px;
+}
+.pane-toggler-down span {
+    background: url("../images/arrow_down.png") no-repeat scroll 5px 50% transparent !important;
+    padding-left: 20px;
+}
+.pane-toggler span {
+	background: url("../images/arrow_up.png") no-repeat scroll 5px 50% !important;
+}
+.pane-sliders .content {
+	border-radius: 0 0 3px 3px;
+	-webkit-border-radius: 0 0 3px 3px;
+}
+#jformparamsk2_selection, #jformparamscontent_selection{
+	width: 190px;
+}
+#k2_selected,#content_selected {
+	width: 170px;
+}
+.jv_catagory_info {
+	float: left;
+}
+#jform_params_catid {
+	width: 100%;
+}
+#jformparamsk2_category{
+	width: 100%;
+}
+#paramsk2_selection, #paramscontent_selection{
+	width: 140px;
+}
+#k2_selected,#content_selected {
+	width: 186px;
+	padding: 0px;
+	margin: 0px;
+}
+#txselect {
+	width: 100%;
+	float: left;
+	padding: 0; 
+}
+div.maintext {
+	overflow: hidden;
+	padding: 4px 0;
+}
+div.maintext span.title {
+	float: left;
+	width: 90px;
+	font-size: 11px;
+	text-align: right;
+	font-weight: bold;
+	color: #000;
+}
+fieldset.panelform ul.adminformlist li input{
+	border-radius: 2px 2px 2px 2px;
+    height: 20px;
+    margin: 1px 7px 5px 0;
+    padding: 0 3px;
+	-webkit-border-radius: 2px;
+}
+div.maintext #jform_img_path, #jform_text_title, #jform_text_link {
+	height: 20px;
+	margin: 0 8px 0 0;
+	padding: 0px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+.jform_add_content {
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+div.textbutton {
+	margin: 0 auto;
+	width: 220px;
+	overflow: hidden;
+}
+.jform_save {
+	background: none repeat scroll 0 0 #db6132;
+    border-radius: 11px;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    padding: 4px 7px;
+    width: 29px;
+	-webkit-border-radius: 5px;
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-size: 10px;
+}
+.jform_cancel {
+	background: none repeat scroll 0 0 #db6132;
+    border-radius: 11px;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    padding: 4px 7px;
+    width: 39px;
+	-webkit-border-radius: 5px;
+	float: left; 
+	cursor: pointer;
+	text-transform: uppercase;
+	font-size: 10px;
+} 
+#maintext .content-form {
+  float: left;
+  overflow: hidden;
+  position: relative;
+  height: auto;
+} 
+div#zt_header {
+	background: url(../images/toolbar.png) repeat-x 0 67%;
+	border: #F4D0C4 solid 1px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px; 
+    font-size: 12px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 38px;
+    margin: 6px 0 0;
+    padding: 0 10px;
+	cursor: pointer;
+	z-index: 8;
+}
+div.custom_item_preview {
+	background: url(../images/toolbar.png) repeat-x 0 97%;
+	border: #F4D0C4 solid 1px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px; 
+    font-size: 12px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 38px;
+    margin: 6px 0 0;
+    padding: 0 10px;
+	cursor: pointer;
+	z-index: 8;
+}
+div.custom_item_preview span.type{
+	color: #666666;
+    font-size: 11px;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+div.custom_item {
+	overflow: hidden;
+	height: auto;
+}
+div#zt_header span.addslide {
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #F4D0C4;
+    border-radius: 15px 15px 15px 15px;
+    color: #DD5627;
+    cursor: pointer;
+    float: right;
+    font-size: 11px;
+    height: 22px;
+    line-height: 22px;
+    margin-top: 7px;
+    padding: 0 9px 0 10px;
+    text-transform: uppercase;
+	-webkit-border-radius: 15px; 
+}
+div#zt_header span.addslide:hover {
+	background: #dc5f31;
+	color: #fff;
+	border: none;
+}
+.imgonly {
+	color: #666;
+}
+div#zt_header span.edititem {
+	z-index: 10;
+	cursor: pointer;
+}
+div.height_scroll {
+	overflow: hidden;
+	margin-top: 10px;
+}
+div.itemsadd {
+	overflow: hidden;
+}
+ul.adminformlist, ul.adminformlist li {
+    clear: left; 
+    overflow: hidden; 
+}
+div#custom_list .custom_item_title {
+    display: block;
+    float: left;
+    max-width: 40%;
+	min-width: 40%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+div#custom_list .up, div#custom_list .move { 
+    cursor: pointer;
+    display: block;
+    float: right;
+    height: 19px;
+    margin: 10px 0 0 0;
+    padding: 0 0 0 1px;
+    width: 16px;
+}
+div#custom_list .move {
+	cursor: move !important;
+}
+div#custom_list a.edit, div#custom_list a.remove, div.custom_item_preview a.modal { 
+    display: block;
+    float: right;
+    height: 17px;
+    margin: 10px 7px 0 0;
+    padding: 0 0 0 3px;
+    text-indent: -9999em;
+    width: 14px;
+}
+div#custom_list .move {
+	background: url("../images/icon.png") no-repeat scroll -51px 0 transparent;
+}
+div#custom_list a.edit {
+	background: url("../images/icon.png") no-repeat scroll -17px 0 transparent;
+}
+div#custom_list a.remove {
+	background: url("../images/icon.png") no-repeat scroll -34px 0 transparent;
+}
+div.custom_item_preview a.modal {
+	background: url("../images/icon.png") no-repeat scroll 0 0 transparent;
+	text-indent: -9999em;
+} 
+div#custom_list a.modal-img {
+    color: #376623;
+    float: right;
+    font-weight: normal;
+}
+.button2-left .image {
+    background: url("../images/arrow_right.png") no-repeat scroll 100% 0 !important;
+}
+.button2-left a, .button2-left span, .button2-left button {
+    padding: 0 8px 0 6px !important;
+}
+#jform_params_text_selection-lbl {display: none;}

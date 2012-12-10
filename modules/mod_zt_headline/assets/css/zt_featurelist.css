@@ -1,0 +1,73 @@
+div.feature_list { 
+   
+    overflow: hidden;
+    position: relative; 
+   
+}
+div.feature_list ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+}
+ul.feature_tabs {
+    right: 0; 
+    z-index: 2;
+    height:100%;
+    background: url("../images/feature_tab_bg.png") repeat left 0;
+}
+ul.feature_tabs li {
+    background:none;
+    color: #CCCCCC;
+    font-family: tahoman;
+    font-size: 13px; 
+    margin: 0;
+    padding: 10px 20px;
+    list-style: none;
+}
+ul.feature_tabs li.current { 
+    background: url("../images/feature_current.png") no-repeat left center;
+}
+div.detail {
+    display:table;
+    width:100%;
+}
+div.detail img{
+    border: 2px solid #ccc;
+    float: left;
+    margin-right: 10px;
+   
+}
+div.detail span {
+    margin: 0;
+    padding: 0;
+
+}
+ul.feature_output { 
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 0;
+    top: 0; 
+}
+ul.feature_output li { 
+    padding:0;
+    position: absolute; 
+    background: none;
+    list-style: none;
+}
+ul.feature_output li p {
+    background: url(../images/opacity.png) repeat;
+    position: absolute;
+    left: 1px;
+    bottom: -3px;
+    font-size: 12px;
+    color: #FFF; 
+    width: 96%;
+    padding: 7px 12px 5px 10px;
+}
+ul.feature_output li p a {
+    color: #fff;
+    float: right;
+}

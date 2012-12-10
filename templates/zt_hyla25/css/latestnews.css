@@ -1,0 +1,20 @@
+div.latestnews {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background: none;
+	display: inline-block;
+}
+div.latestnewsitems {
+	margin: 0 0 10px;
+	padding: 0;
+	display: block;
+	float: left;
+}
+div.latestnewsitems img.left {
+	float: left;
+}
+div.latestnewsitems img.right {
+	float: right;
+}
+.latestnewsitems{ width: auto !important;}

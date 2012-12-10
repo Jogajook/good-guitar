@@ -1,0 +1,204 @@
+.jv_wrap_twitter{}
+
+.jv_twitter li.jv_twitter_item, ul.jv_user_timeline li.jv_twitter_item{
+	border-top:1px solid #EEEEEE;	
+	padding:0.7em 0 0.6em;
+	overflow:hidden;
+}
+ul.jv_twitter{
+	list-style-type:none;
+	list-style-image:none;
+	list-style-position:outside;
+	margin:0;
+	padding:0;	
+}
+li.jv_twitter_item a.thumb_author,div.jv_search_twitter a.thumb_author {
+	display:block;	
+	float:left;	
+	margin-right:5px;
+}
+p.status_body strong.author{
+font-size:12px;
+font-weight:bold;
+}
+.jv_wrap_twitter ul.jv_user_timeline{	
+	margin-top:5px;
+	padding:0;
+}
+.item_title .title_left{
+	float:left;
+	margin-left:5px;	
+}
+.item_title .title_right{
+	float:left;
+	margin-left:10px;
+}
+.item_title span.name{	
+	font-size:20px;
+	display:block;
+	color:#FFFFFF;
+}
+.item_title span.nick{
+	margin-top:8px;
+	display:block;
+	color:#FFFFFF;
+}
+span.status_date{
+display:block;
+color:#999999;
+}
+div.jv_twitter_home_title,.jv_twitter_home_title .item_title{
+	overflow:hidden;
+}
+p.status_body{	
+	overflow:hidden;
+	display:block;
+	margin: 0px;
+}
+.twitter-ajax-loading{
+	background:url(../images/spinner.gif) no-repeat center top;	
+	min-height:30px;
+}
+.jv_wrap_twitter .jv_twitter_status{
+	margin-bottom:20px;
+}
+div.jv_twitter_user div.jv_header_wrapper .jv_twitter_header{
+	overflow:hidden;
+	background:url(../images/header-bg.jpg) repeat-x;
+	padding:4px 8px;
+}
+div.jv_header_wrapper .jv_twitter_header .show_avatar{
+	float:left;
+	width:48px;
+	height:48px;
+}
+div.jv_header_wrapper .jv_twitter_header .info{
+	float:left;
+	margin-left:5px;
+}
+div.jv_header_wrapper .jv_twitter_header .info .name{
+	display:block;
+	color:#FFFFFF;
+	font-size:15px;	
+}
+div.jv_header_wrapper{
+	cursor:pointer;
+}
+div.jv_header_wrapper .jv_twitter_header .info span.nick{
+	color:#CCCCCC;
+	display:block;
+	margin-top:10px;
+	font-size:13px;
+	padding:2px 0;
+}
+.jv_wrap_twitter div.twitter_content ul.subscribe,ul.stas{
+	margin:0 0 10px;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	padding:0;
+}
+
+div.twitter_content ul.subscribe li,ul.stas li{
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	padding:0;
+	margin-top:5px;
+	overflow:hidden;
+}
+div.twitter_content ul.subscribe li div.title,ul.stas div.title,div.jv_twit_follow div.title{
+	float:left;
+	color:#999999;	
+	width:55px;
+}
+div.twitter_content ul.subscribe div.content_feed,ul.subscribe div.follow,ul.stas div.content,div.jv_twit_follow div.follow{
+	width:auto;	
+	margin-left:60px;
+	overflow:hidden;
+}
+div.twitter_content ul.stas div.content_feed a{
+	color:#135CAE;
+	background:url(../images/rss.gif) no-repeat right center;
+	height:16px;	
+	font-weight:bold;
+	padding-right:20px;
+}
+ul.subscribe div.follow a {
+	color:#135CAE;
+	height:16px;	
+	font-weight:bold;
+	padding-right:20px;
+}
+ul.subscribe div.follow{
+	color:#999999;
+}
+ul.stas li div.content{font-weight:bold;} 
+div.jv_twitter_friendlist div.friendlist_title,.tweets-title-surround p.title,div.jv_twit_follow div.jv_twit_follow_cont{
+	color:#999999;
+	margin-bottom:3px;	
+}
+div.twitter_follow div.jv_twit_follow{
+	margin-bottom: 3px;
+	color:#999999;
+	padding: 2px 0 0 20px;
+	background: url(../images/twitter.png) no-repeat scroll 0 50%;
+	padding: 2px 0 0 20px;
+}
+.jv_twit_follow_cont {
+	background: url(../images/twitter.png) no-repeat scroll 0 50%;
+	padding: 2px 0 0 20px;
+}
+.tweets-title-surround p.title{
+	min-height:20px;
+}
+div.jv_twitter_friendlist div.viewall a{
+	color:#135CAE;
+	font-weight:bold;
+	text-decoration:none;
+}
+div.jv_twitter_friendlistatus_bodyst div.viewall a:hover{text-decoration:underline;}
+div.tweets-title-surround p.title{
+	background:#999999;
+	color:#FFFFFF;	
+	padding:5px 5px; 
+}
+div.tweets-title-surround p.twitter_title{
+	background:#999999;
+	color:#FFFFFF;	
+	padding:5px 5px; 
+}
+p.status_body span.twitter_content{
+	display:block;
+	font-size:12px;
+}
+p.status_body span.jv_twitter_infos{
+	color:#999999;
+	font-size:12px;
+	overflow:hidden;
+	display:block;
+}
+span.source a.jv_twitter_source{
+	color:#999999;
+	font-weight:bold;
+	font-style:italic;
+}
+span.jv_twitter_infos a.jv_twitter_date{
+	float:right;
+	font-weight:bold;
+	color:#999999;
+}
+span.jv_twitter_infos a.date_no_from_web{
+	font-weight:bold;
+	color:#999999;	
+}
+div.jv_twit_follow {
+	overflow:hidden;
+	margin:5px 0 0 0;
+	padding:0;
+}
+.search_item{
+	overflow:hidden;
+	clear:both;
+	margin:3px 0;
+}
